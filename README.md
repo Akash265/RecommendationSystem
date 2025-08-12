@@ -26,15 +26,15 @@ Model performance on validation set during training:
 - NDCG@20: ~0.08
 
 Final test set performance:
-- Recall@20: [Value]
-- Precision@20: [Value]
-- NDCG@20: [Value]
+- Recall@20: 0.143
+- Precision@20: 0.043
+- NDCG@20: 0.094
 
 ## File Structure
 ```text
 lightgcn-movielens/
 ├── config.py              # Configuration parameters
-├── data/                  # Dataset storage
+├── ml-latest-small                  # Dataset storage
 ├── data_preparation.py    # Data loading and preprocessing
 ├── metrics.py             # Evaluation metrics
 ├── model.py               # LightGCN model definition
