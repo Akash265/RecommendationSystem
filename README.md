@@ -33,15 +33,16 @@ Final test set performance:
 ## File Structure
 
 lightgcn-movielens/
-├── config.py # Configuration parameters
-├── data/ # Dataset storage
-├── data_preparation.py # Data loading and preprocessing
-├── metrics.py # Evaluation metrics
-├── model.py # LightGCN model definition
-├── README.md # Project documentation
-├── requirements.txt # Dependencies
-├── train.py # Training and evaluation logic
-└── utils.py # Helper functions
+├── config.py              # Configuration parameters
+├── data/                  # Dataset storage
+├── data_preparation.py    # Data loading and preprocessing
+├── metrics.py             # Evaluation metrics
+├── model.py               # LightGCN model definition
+├── README.md              # Project documentation
+├── requirements.txt       # Dependencies
+├── train.py               # Training and evaluation logic
+└── utils.py               # Helper functions
+
 
 text
 
