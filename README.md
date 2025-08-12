@@ -31,7 +31,7 @@ Final test set performance:
 - NDCG@20: [Value]
 
 ## File Structure
-
+```text
 lightgcn-movielens/
 ├── config.py              # Configuration parameters
 ├── data/                  # Dataset storage
@@ -43,8 +43,8 @@ lightgcn-movielens/
 ├── train.py               # Training and evaluation logic
 └── utils.py               # Helper functions
 
+```
 
-text
 
 ## References
 - He, Xiangnan, et al. "LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation." SIGIR 2020.
